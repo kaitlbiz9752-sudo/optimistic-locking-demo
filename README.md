@@ -4,3 +4,6 @@
 <img width="1012" height="1026" alt="TP6 3" src="https://github.com/user-attachments/assets/dece236d-5518-45e1-b77a-16b7d4961d5f" />
 <img width="1033" height="1045" alt="TP6 4" src="https://github.com/user-attachments/assets/fb65da10-38e7-477b-af46-07fecfc0b0a9" />
 <img width="956" height="1078" alt="TP6 5" src="https://github.com/user-attachments/assets/42f83668-8d75-4501-a8e9-308ecaca13ac" />
+<img width="656" height="935" alt="TP6 arborecence2" src="https://github.com/user-attachments/assets/48418e41-3999-4f45-a87d-63b4d8d04656" />
+<img width="837" height="1031" alt="TP6 6" src="https://github.com/user-attachments/assets/4b078c09-3d3c-4e85-8b96-dd45d9e113b8" />
+<img width="892" height="1018" alt="TP6 7" src="https://github.com/user-attachments/assets/d63d8637-de80-4304-988d-b268c88d2974" />
